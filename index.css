@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+.text-center{
+    text-align: center;
+
+}
+.big-red{
+
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
